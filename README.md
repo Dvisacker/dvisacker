@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
-**Dvisacker/dvisacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PtitLuca/PtitLuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :question: I am a belgium blockchain and web3 software engineer based in Seoul, South Korea. 
+- 🔭 I’m currently working at:
+  - [Blockpour](https://www.blockpour.com/)
+- 🤔 I've worked at:
+  - Faster AI (Stealth Crypto Prop Trading Firm)
+  - [Xendit](https://www.xendit.co/en/)
+  - [Proofsuite](https://github.com/proofsuite)
+- 👯 I’m passionate and looking to collaborate projects about
+  - DeFi
+  - Trading/MEV
+- 🌱 I’m currently learning:
+  - Zero Knowledge 
+  - Rust
+- 📫 How to reach me:
+  - [Twitter](https://twitter.com/dvisacker)
+  - [LinkedIn](https://www.linkedin.com/in/david-van-isacker/)
+- Other links
+  - [Personal Website](https://www.davidvanisacker.com/)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dvisacker&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvisacker)
