@@ -34,6 +34,4 @@ Here are some ideas to get you started:
 - Other links
   - [Personal Website](https://www.davidvanisacker.com/)
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dvisacker&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvisacker)
