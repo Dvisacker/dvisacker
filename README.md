@@ -1,7 +1,6 @@
 # Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
-**PtitLuca/PtitLuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :question: I am a belgium blockchain and web3 software engineer based in Seoul, South Korea. 
-- 🔭 I’m currently working at:
+- :question: I am a belgian blockchain and web3 software engineer based in Seoul, South Korea. 
+- 🏗️ I’m currently working at:
   - [Blockpour](https://www.blockpour.com/)
-- 🤔 I've worked at:
+- 💼 I've worked at:
   - Faster AI (Stealth Crypto Prop Trading Firm)
   - [Xendit](https://www.xendit.co/en/)
   - [Proofsuite](https://github.com/proofsuite)
-- 👯 I’m passionate and looking to collaborate projects about
+- 🔭 I’m passionate and looking to collaborate projects about
   - DeFi
   - Trading/MEV
 - 🌱 I’m currently learning:
