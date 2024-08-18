@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - :question: I am a belgian blockchain and web3 software engineer based in Seoul, South Korea. 
-- 🏗️ I’m currently working at:
-  - [Blockpour](https://www.blockpour.com/)
+- 🏗️ I’m currently working at [Blockpour](https://www.blockpour.com/)
 - 💼 I've worked at:
   - Faster AI (Stealth Crypto Prop Trading Firm)
   - [Xendit](https://www.xendit.co/en/)
