@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m passionate and looking to collaborate projects about
   - DeFi
   - Blockchain Data
-  - Algorithmic Trading, MEV and financial marketse
+  - Algorithmic Trading, MEV and financial markets
 - 🌱 I’m currently learning:
   - Zero Knowledge 
   - Rust
