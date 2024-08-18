@@ -22,7 +22,8 @@ Here are some ideas to get you started:
   - [Proofsuite](https://github.com/proofsuite)
 - 🔭 I’m passionate and looking to collaborate projects about
   - DeFi
-  - Trading/MEV
+  - Blockchain Data
+  - Algorithmic Trading, MEV and financial marketse
 - 🌱 I’m currently learning:
   - Zero Knowledge 
   - Rust
