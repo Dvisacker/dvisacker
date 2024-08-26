@@ -14,7 +14,6 @@
   - Zero Knowledge 
   - Rust
 - 📫 How to reach me:
-  - [Twitter](https://twitter.com/dvisacker)
   - [LinkedIn](https://www.linkedin.com/in/david-van-isacker/)
 - Other links
   - [Personal Website](https://www.davidvanisacker.com/)
