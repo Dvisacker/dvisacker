@@ -13,9 +13,8 @@
 - 🌱 I’m currently learning:
   - Zero Knowledge 
   - Rust
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/david-van-isacker/)
 - Other links
   - [Personal Website](https://www.davidvanisacker.com/)
+  - [LinkedIn](https://www.linkedin.com/in/david-van-isacker/)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvisacker)
