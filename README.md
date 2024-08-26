@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning:
   - Zero Knowledge 
   - Rust
-- Other links
+- Links
   - [Personal Website](https://www.davidvanisacker.com/)
   - [LinkedIn](https://www.linkedin.com/in/david-van-isacker/)
 
