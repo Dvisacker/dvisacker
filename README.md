@@ -1,7 +1,7 @@
 # Hi!
  I am a blockchain and web3 software engineer based in Seoul, South Korea. 
-- 🏗️ I’m currently working at [Blockpour](https://www.blockpour.com/)
-- 💼 I worked at:
+- 🏗️ Currently working at [Blockpour](https://www.blockpour.com/)
+- 💼 Worked at:
   - Faster AI (Stealth Prop Trading Firm)
   - [Xendit](https://www.xendit.co/en/)
   - [Proofsuite](https://github.com/proofsuite)
@@ -9,7 +9,7 @@
   - DeFi
   - Blockchain Data
   - Algorithmic Trading, MEV and financial markets
-- 🌱 I’m currently learning:
+- 🌱 Currently learning:
   - Zero Knowledge 
   - Rust
 - Links
