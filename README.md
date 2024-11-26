@@ -10,7 +10,7 @@
   - Blockchain Data
   - Algorithmic Trading, MEV and financial markets
 - 🌱 Currently learning:
-  - Uniswap V3 math
+  - Solving/Intents
   - Rust
 - Links
   - [Personal Website](https://www.davidvanisacker.com/)
