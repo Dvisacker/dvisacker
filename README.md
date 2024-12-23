@@ -1,6 +1,5 @@
 # Hi!
-I am a blockchain/crypto software engineer based in Seoul, South Korea. 
-Currently working at [Blockpour](https://www.blockpour.com/)
+I am a blockchain/crypto software engineer based in Seoul, South Korea and currently working at [Blockpour](https://www.blockpour.com/)
 * Worked at:
   - Faster AI (Stealth Prop Trading Firm)
   - [Xendit](https://www.xendit.co/en/)
