@@ -1,5 +1,4 @@
-# Hi!
-I am a blockchain/crypto software engineer based in Seoul. 
+Hi! I'm David, a blockchain/crypto software engineer based in Seoul. 
 * Currently working at [Blockpour](https://www.blockpour.com/)
 * Worked at:
   - Faster AI (Stealth Prop Trading Firm)
@@ -12,5 +11,3 @@ I am a blockchain/crypto software engineer based in Seoul.
 * Links
   - [Personal Website](https://www.davidvanisacker.com/)
   - [LinkedIn](https://www.linkedin.com/in/david-van-isacker/)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvisacker)
