@@ -4,10 +4,10 @@ Hi! I'm David, a blockchain/crypto software engineer based in Seoul.
   - Faster AI (Stealth Prop Trading Firm)
   - [Xendit](https://www.xendit.co/en/)
   - [Proofsuite](https://github.com/proofsuite)
-* Passionate about:
+* Areas of interest:
   - DeFi
-  - Blockchain Data
-  - Algorithmic Trading, MEV and financial markets
+  - Blockchain data
+  - Algorithmic trading, mev and finance
 * Links
-  - [Personal Website](https://www.davidvanisacker.com/)
+  - [Website](https://www.davidvanisacker.com/)
   - [LinkedIn](https://www.linkedin.com/in/david-van-isacker/)
